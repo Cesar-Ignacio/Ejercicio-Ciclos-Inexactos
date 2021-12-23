@@ -20,8 +20,8 @@ int main()
         cout<<"Ejercicios con Ciclos Inexactos"<<endl;
         cout<<"********************************"<<endl;
         cout<<"Salir 0"<<endl;
-        cout<<"Ejercicio:_14"<<endl;
-        cout<<""<<endl;
+        cout<<"Ejercicio:_4"<<endl;
+        cout<<"Ejercicio:_6"<<endl;
         cout<<"********************************"<<endl;
         cout<<"Opcion:";
         opc=AloNumeroI();

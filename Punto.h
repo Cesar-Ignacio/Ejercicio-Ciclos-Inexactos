@@ -42,5 +42,50 @@ void Enunciado_4()
    cout<<"***************************"<<endl;
 }
 
+void Punto_6()
+{
+    int numero=0,x=1;
+    int canPrimos=0;
+
+    Enunciado_6();
+
+    cout<<"Ingrese numero:";
+    numero=AloNumeroF();
+
+    while(canPrimos<=2 && x<=numero)
+    {
+        if(numero%x==0)
+        {
+            canPrimos++;
+        }
+        x++;
+    }
+
+    if(canPrimos==2)
+    {
+        cout<<"El numero es primo"<<endl;
+    }
+    else
+    {
+        cout<<"El numero no es primo"<<endl;
+    }
+
+    cin.get();
+    cin.get();
+
+    system("cls");
+
+
+}
+
+void Enunciado_6()
+{
+    cout<<"Ejercicio 6"<<endl;
+    cout<<"Enuciado:"<<endl;
+    cout<<"6) Hacer un programa para ingresar por teclado un número superior a 1 y luego informar si el "<<endl;
+    cout<<"mismo es número primo. "<<endl;
+    cout<<"***********************"<<endl;
+
+}
 
 #endif // PUNTO_H_INCLUDED

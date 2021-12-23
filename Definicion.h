@@ -9,6 +9,10 @@ void PuntoX(int punto)
     {
         Punto_4();
     }
+    else if(punto==6)
+    {
+        Punto_6();
+    }
 }
 
 
