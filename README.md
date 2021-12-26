@@ -1,2 +1,2 @@
 # Ejercicio-Ciclos-Inexactos
-Los ejercicios presentes estan resuletos con el ciclo ```{while}
+Los ejercicios presentes estan resuletos con el ciclo [{(*while*)}]
