@@ -28,4 +28,4 @@ Los ejercicios presentes estan resuletos con el ciclo while.
 
  
 <hr>
-[blog]: http://limni.net/blog/
+⭐️ From [@Thaiane](https://github.com/Thaiane)
