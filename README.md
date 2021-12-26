@@ -1,10 +1,6 @@
 # Ejercicio-Ciclos-Inexactos
 Los ejercicios presentes estan resuletos con el ciclo while.
-### e
-
-
-
-
+### Sintaxis
     while ( condición )    
 
                 sentencia;
