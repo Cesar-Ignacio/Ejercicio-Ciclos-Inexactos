@@ -88,4 +88,96 @@ void Enunciado_6()
 
 }
 
+void Punto_7()
+{
+    float numero,maxi=0,posmax=0;
+    int indice=0;
+    Enunciado_7();
+    while(numero!=0)
+    {
+
+        cout<<"Ingrese numero:";
+        numero=AloNumeroF();
+
+        if(indice==0)
+        {
+            maxi=numero;
+            posmax=indice;
+        }
+        else if(numero>maxi)
+        {
+            maxi=numero;
+            posmax=indice;
+        }
+
+        indice++;
+
+    }
+
+
+    cout<<"Maximo numero :"<<maxi<<endl;
+    cout<<"Posicion :"<<posmax<<endl;
+
+
+    cin.get();
+    cin.get();
+    system("cls");
+}
+
+void Enunciado_7()
+{
+   cout<<"Enuciado 7"<<endl;
+   cout<<"7) Hacer un programa para ingresar una lista de números que finaliza cuando se ingresa un "<<endl;
+   cout<<"cero. Se pide determinar e informar el máximo de la lista y su posición dentro de la misma."<<endl;
+   cout<<"Suponer que los números pueden ser todos positivos, todos negativos o combinados."<<endl;
+   cout<<"***************"<<endl;
+}
+
+void Punto_8()
+{
+    float numero=0,anterioNumero=0;
+    int cantNumeros=0,ordenado=0;
+    Enunciado_8();
+
+    cout<<"Ingrese numero:";
+    numero=AloNumeroF();
+
+    while(numero!=0)
+    {
+        anterioNumero=numero;
+
+        cantNumeros++;
+
+        if(numero>=anterioNumero)
+        {
+            ordenado++;
+        }
+
+        cout<<"Ingrese numero:";
+        numero=AloNumeroF();
+
+    }
+
+
+    if(cantNumeros==ordenado)
+    {
+        cout<<"Los numero estan ordenados"<<endl;
+    }
+    else{
+        cout<<"Los numero estan desordenados"<<endl;
+    }
+
+    cin.get();
+    cin.get();
+    system("cls");
+}
+
+void Enunciado_8()
+{
+  cout<<"8) Dada una lista de números enteros todos distintos entre sí y que finaliza con un cero,"<<endl;
+cout<<"determinar e informar con un cartel aclaratorio si los mismos están ordenados de menor a "<<endl;
+cout<<"mayor."<<endl;
+cout<<"**************************"<<endl;
+}
+
 #endif // PUNTO_H_INCLUDED

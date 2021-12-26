@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1640259004 source:c:\users\usuario\documents\carpeta de c++\programacion_1\ejercicios ciclos inexactos\main.cpp
+1640476247 source:c:\users\usuario\documents\carpeta de c++\programacion_1\ejercicios ciclos inexactos\main.cpp
 	<iostream>
 	<stdio.h>
 	<stdlib.h>
@@ -7,9 +7,9 @@
 	"Definicion.h"
 	"Punto.h"
 
-1640259166 c:\users\usuario\documents\carpeta de c++\programacion_1\ejercicios ciclos inexactos\prototipo.h
+1640476264 c:\users\usuario\documents\carpeta de c++\programacion_1\ejercicios ciclos inexactos\prototipo.h
 
-1640259173 c:\users\usuario\documents\carpeta de c++\programacion_1\ejercicios ciclos inexactos\definicion.h
+1640476284 c:\users\usuario\documents\carpeta de c++\programacion_1\ejercicios ciclos inexactos\definicion.h
 
-1640260187 c:\users\usuario\documents\carpeta de c++\programacion_1\ejercicios ciclos inexactos\punto.h
+1640478791 c:\users\usuario\documents\carpeta de c++\programacion_1\ejercicios ciclos inexactos\punto.h
 

@@ -13,6 +13,14 @@ void PuntoX(int punto)
     {
         Punto_6();
     }
+    else if(punto==7)
+    {
+        Punto_7();
+    }
+    else if(punto==8)
+    {
+        Punto_8();
+    }
 }
 
 
