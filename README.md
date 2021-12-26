@@ -1,2 +1,19 @@
 # Ejercicio-Ciclos-Inexactos
-Los ejercicios presentes estan resuletos con el ciclo [{(*while*)}]
+Los ejercicios presentes estan resuletos con el ciclo while.
+
+    while ( condición )    
+
+                sentencia;
+        Si se requiere realizar más de una sentencia se deben utilizar llaves.    
+
+   
+
+     while ( condición )    
+
+         {
+
+               bloque de sentencias;
+
+          }
+
+ 
