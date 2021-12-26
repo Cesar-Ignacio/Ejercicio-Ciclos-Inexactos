@@ -28,4 +28,4 @@ Los ejercicios presentes estan resuletos con el ciclo while.
 
  
 <hr>
-[Mas info](https://sites.google.com/site/lenguajedeprogramacionit3p1/unidad-ii-conceptos-procedimentales-del-c/while#:~:text=Un%20ciclo%20es%20cualquier%20construcci%C3%B3n,sentencias%20un%20n%C3%BAmero%20de%20veces.&text=Un%20ciclo%20while%20tiene%20una,controla%20la%20secuencia%20de%20repetici%C3%B3n.)
+[Mas info]:https://sites.google.com/site/lenguajedeprogramacionit3p1/unidad-ii-conceptos-procedimentales-del-c/while#:~:text=Un%20ciclo%20es%20cualquier%20construcci%C3%B3n,sentencias%20un%20n%C3%BAmero%20de%20veces.&text=Un%20ciclo%20while%20tiene%20una,controla%20la%20secuencia%20de%20repetici%C3%B3n
