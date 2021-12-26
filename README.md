@@ -1,2 +1,2 @@
 # Ejercicio-Ciclos-Inexactos
-Los ejercicios presentes estan resuletos con el ciclo [[#While]]
+Los ejercicios presentes estan resuletos con el ciclo '''{While}
